@@ -1,6 +1,7 @@
 #  2024/10/12
 采集英语六级词汇  
 目标网站：https://word.iciba.com/
+https://github.com/Luxuryend/crawlers/blob/main/English_words.py
 
 ---
 
