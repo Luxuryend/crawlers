@@ -5,3 +5,5 @@
 | 2025/11/06 | selenium爬取红袖小说 | [hongxiu.com](https://www.hongxiu.com/) | [hongxiu](https://github.com/Luxuryend/crawlers/blob/main/hongxiu.py) |
 | 2025/11/06 | selenium爬取腾讯漫画 | [ac.qq.com](https://ac.qq.com/ComicView/index/id/651757/cid/808) | [tx_comic](https://github.com/Luxuryend/crawlers/blob/main/tx_comic.py) |
 | 2025/11/07 | A站爬取m3u8视频 | [acfun.com](https://www.acfun.cn/) | [acfun](https://github.com/Luxuryend/crawlers/blob/main/acfun.py) |
+| 2025/11/08 | 爬取B站视频 | [bilibili.com](https://www.bilibili.com) | [bilibili](https://github.com/Luxuryend/crawlers/blob/main/bilibili.py) |
+| 2025/11/08 | 爬取虎牙视频 | [huya.com](https://www.huya.com/video) | [huya](https://github.com/Luxuryend/crawlers/blob/main/huya.py) |
