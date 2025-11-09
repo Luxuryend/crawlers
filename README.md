@@ -7,3 +7,4 @@
 | 2025/11/07 | A站爬取m3u8视频 | [acfun.com](https://www.acfun.cn/) | [acfun](https://github.com/Luxuryend/crawlers/blob/main/acfun.py) |
 | 2025/11/08 | 爬取B站视频 | [bilibili.com](https://www.bilibili.com) | [bilibili](https://github.com/Luxuryend/crawlers/blob/main/bilibili.py) |
 | 2025/11/08 | 爬取虎牙视频 | [huya.com](https://www.huya.com/video) | [huya](https://github.com/Luxuryend/crawlers/blob/main/huya.py) |
+| 2025/11/09 | 爬取淘宝商品数据 | [taobao.com](https://www.taobao.com/) | [taobao](https://github.com/Luxuryend/crawlers/blob/main/taobao.py) |
