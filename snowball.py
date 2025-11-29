@@ -16,7 +16,7 @@ x2 = '//*[@id="app"]/div/div[2]/div/div/div[2]/div[2]/div[2]/div/table/tbody/tr/
 
 page = 15
 
-for i in range(page):
+for i in range(15):
     html = etree.HTML(tab.html)
 
     c1 = html.xpath(x1 + 'td[1]/span/a/text()')
@@ -46,6 +46,7 @@ for i in range(page):
         "股息率": c11,
         "市值": c12
     })
+
     df.to_csv(
         'snowball.csv',
         mode='a',
@@ -55,3 +56,6 @@ for i in range(page):
     tab.ele('x://*[@id="app"]/div/div[2]/div/div/ul/li[10]/button').click()
     print(f'已采集第{i + 1}页')
     browser.wait(random.uniform(3, 6))
+
+tab.close()
+browser.quit()
